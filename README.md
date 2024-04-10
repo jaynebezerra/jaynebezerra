@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**jaynebezerra/jaynebezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am passionate about data and technology**
 
 Here are some ideas to get you started:
 
@@ -10,4 +9,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Phyton
 - 💬 Ask me about Excel
 - 📫 How to reach me: jaynebezerra@gmail.com
--->
