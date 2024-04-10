@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with SQL
 - 💬 Ask me about Excel
 
-  <a href="https://www.linkedin.com/in/jayne-bezerra-965214133/?trk=public-profile-join-page" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/jayne-bezerra-965214133/?trk=public-profile-join-page" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luan-porphirio/" height="30" width="40" /></a>
